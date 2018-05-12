@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Addition</string>
+    <string name="First_name">First Number</string>
+    <string name="Second_name">Second Number</string>
+    <string name="Add">Add</string>
+    <string name="Result">Result</string>
+</resources>
